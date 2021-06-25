@@ -1,2 +1,2 @@
 # blackjack
-# Blackjack game for Python course
+# Blackjack game for Python course.
